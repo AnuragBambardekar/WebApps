@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- <bamba>Bamba</bamba> -->
+
+<!-- There can be only one root -->
+<!-- Here, a root has 4 children and each child has 4 more children in it-->
+<!-- id = "1" is attribute-->
+
+<!-- My first xml code-->
+<ExamResults>
+    <student id="RU1">
+        <id> RU1 </id>
+        <name> Anurag </name>
+        <physics> 98 </physics>
+        <chemistry> 95 </chemistry>
+        <mathematics> 90 </mathematics>
+        <biology> 79 </biology>
+        <HistoryAndCivics> 79 </HistoryAndCivics>
+        <Geography> 95 </Geography>
+    </student>
+    <student id="RU2">
+        <id> RU2 </id>
+        <name> Rajesh </name>
+        <physics> 92 </physics>
+        <chemistry> 93 </chemistry>
+        <mathematics> 96 </mathematics>
+        <biology> 84 </biology>
+        <HistoryAndCivics> 73 </HistoryAndCivics>
+        <Geography> 96 </Geography>
+    </student>
+    <student id="RU3">
+        <id> RU3 </id>
+        <name> Lokesh </name>
+        <physics> 90 </physics>
+        <chemistry> 89 </chemistry>
+        <mathematics> 91 </mathematics>
+        <biology> 96 </biology>
+        <HistoryAndCivics> 88 </HistoryAndCivics>
+        <Geography> 95 </Geography>
+    </student>
+    <student id="RU4">
+        <id> RU4 </id>
+        <name> Lokesh </name>
+        <physics> 90 </physics>
+        <chemistry> 87 </chemistry>
+        <mathematics> 91 </mathematics>
+        <biology> 92 </biology>
+        <HistoryAndCivics> 99 </HistoryAndCivics>
+        <Geography> 88 </Geography>
+    </student>
+</ExamResults>
